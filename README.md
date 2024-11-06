@@ -4,7 +4,6 @@ muj první školní  projekt. Analizator textu.
 --možnost přídání rozšíření grafu pro počet písmen ve slově. V tom případě nutné 
   předělání sloupcového grafu protože přidané sloupce budou špatně odsazeny.
  
-!!!podívat se a pozepta se na init.py soubor byli tam 3 upozornění!!! 
 
 duplicitní funkce      :řádek 56-60, 154 popsané printy a errory aby se vědělo 
                         kde hledat.
